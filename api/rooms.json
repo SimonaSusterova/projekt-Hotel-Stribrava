@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Úkryt",
+      "price": 450,
+      "description": "Strohý avšak pohodlný pokoj ideální pro hosty, kteří chtějí maximálně ušetřit a hledají cenově dostupné ubytování bez ztráty základního komfortu.",
+      "image": "http://localhost:4000/assets/pokoj01.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Základ",
+      "price": 700,
+      "description": "Jednoduchost a pohodlí za rozumnou cenu. S vkusným designem a mírně retro vybavením poskytuje tento pokoj klidné místo na odpočinek.",
+      "image": "http://localhost:4000/assets/pokoj02.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Klasik",
+      "price": 1200,
+      "description": "Moderní elegance s výhledem na řeku. Náš pokoj Klasik je ideální pro ty, kteří si přejí stylové ubytování.",
+      "image": "http://localhost:4000/assets/pokoj03.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Komfort",
+      "price": 2500,
+      "description": "Pro hosty, kteří si chtějí dopřát vyšší úroveň ubytování, je tu pokoj Komfort.",
+      "image": "http://localhost:4000/assets/pokoj04.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Luxus",
+      "price": 8000,
+      "description": "Pro nejnáročnější hosty máme připravený prostorný pokoj s exkluzivním vybavením v prvorepublikovém stylu.",
+      "image": "http://localhost:4000/assets/pokoj05.jpg"
+    }
+]
